@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lorenzo Mauri</title>
-    <link>https://maurilorenzo/maurilorenzo.github.io/</link>
-      <atom:link href="https://maurilorenzo/maurilorenzo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://maurilorenzo.github.io/</link>
+      <atom:link href="https://maurilorenzo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Lorenzo Mauri</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://maurilorenzo/maurilorenzo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://maurilorenzo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Lorenzo Mauri</title>
-      <link>https://maurilorenzo/maurilorenzo.github.io/</link>
+      <link>https://maurilorenzo.github.io/</link>
     </image>
     
     <item>
       <title>Academic Template</title>
-      <link>https://maurilorenzo/maurilorenzo.github.io/deleted_from_home/demo/</link>
+      <link>https://maurilorenzo.github.io/deleted_from_home/demo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://maurilorenzo/maurilorenzo.github.io/deleted_from_home/demo/</guid>
+      <guid>https://maurilorenzo.github.io/deleted_from_home/demo/</guid>
       <description>&lt;h2 id=&#34;-welcome-to-the-academic-template&#34;&gt;👋 Welcome to the Academic Template&lt;/h2&gt;
 &lt;p&gt;The Wowchemy &lt;strong&gt;Academic Resumé Template&lt;/strong&gt; for Hugo empowers you to create your job-winning online resumé and showcase your academic publications.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.app&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest demo&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the showcase&lt;/a&gt;.&lt;/p&gt;
@@ -47,49 +47,49 @@
     
     <item>
       <title>Skills</title>
-      <link>https://maurilorenzo/maurilorenzo.github.io/deleted_from_home/skills/</link>
+      <link>https://maurilorenzo.github.io/deleted_from_home/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://maurilorenzo/maurilorenzo.github.io/deleted_from_home/skills/</guid>
+      <guid>https://maurilorenzo.github.io/deleted_from_home/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accomplish&amp;shy;ments</title>
-      <link>https://maurilorenzo/maurilorenzo.github.io/deleted_from_home/accomplishments/</link>
+      <link>https://maurilorenzo.github.io/deleted_from_home/accomplishments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://maurilorenzo/maurilorenzo.github.io/deleted_from_home/accomplishments/</guid>
+      <guid>https://maurilorenzo.github.io/deleted_from_home/accomplishments/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>https://maurilorenzo/maurilorenzo.github.io/deleted_from_home/posts/</link>
+      <link>https://maurilorenzo.github.io/deleted_from_home/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://maurilorenzo/maurilorenzo.github.io/deleted_from_home/posts/</guid>
+      <guid>https://maurilorenzo.github.io/deleted_from_home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://maurilorenzo/maurilorenzo.github.io/deleted_from_home/talks/</link>
+      <link>https://maurilorenzo.github.io/deleted_from_home/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://maurilorenzo/maurilorenzo.github.io/deleted_from_home/talks/</guid>
+      <guid>https://maurilorenzo.github.io/deleted_from_home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Featured Publications</title>
-      <link>https://maurilorenzo/maurilorenzo.github.io/deleted_from_home/featured/</link>
+      <link>https://maurilorenzo.github.io/deleted_from_home/featured/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://maurilorenzo/maurilorenzo.github.io/deleted_from_home/featured/</guid>
+      <guid>https://maurilorenzo.github.io/deleted_from_home/featured/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>https://maurilorenzo/maurilorenzo.github.io/deleted_from_home/publications/</link>
+      <link>https://maurilorenzo.github.io/deleted_from_home/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://maurilorenzo/maurilorenzo.github.io/deleted_from_home/publications/</guid>
+      <guid>https://maurilorenzo.github.io/deleted_from_home/publications/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Quickly discover relevant content by &lt;a href=&#34;./publication/&#34;&gt;filtering publications&lt;/a&gt;.
@@ -100,9 +100,9 @@
     
     <item>
       <title>Example Talk</title>
-      <link>https://maurilorenzo/maurilorenzo.github.io/talk/example-talk/</link>
+      <link>https://maurilorenzo.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://maurilorenzo/maurilorenzo.github.io/talk/example-talk/</guid>
+      <guid>https://maurilorenzo.github.io/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -120,9 +120,9 @@
     
     <item>
       <title>The Stochastic Barker Proposal</title>
-      <link>https://maurilorenzo/maurilorenzo.github.io/project/sbp/</link>
+      <link>https://maurilorenzo.github.io/project/sbp/</link>
       <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://maurilorenzo/maurilorenzo.github.io/project/sbp/</guid>
+      <guid>https://maurilorenzo.github.io/project/sbp/</guid>
       <description>&lt;p&gt;Markov chain Monte Carlo (MCMC) algorithms represent the most common method for solving intractable integrals in Bayesian inference. Among this class of algorithms, stochastic gradient MCMC (SGMCMC) have recently gained great attention as they combine scalability to large datasets with a fast exploration of the space. 
 In this thesis, we study the Stochastic Barker proposal, the stochastic gradient version of a recently introduced MCMC algorithm, the Barker scheme that has been shown to outperform standard gradient based MCMC in terms of robustness to hyperparameter tuning. The method presented is compared to the stochastic gradient Langevin dynamics (SGLD) algorithm, a popular SGMCMC. Also in the stochastic case, the Barker Proposal shows greater robustness to hyperparameter tuning when the posterior is irregular and outperforms SGLD in terms of predictive accuracy on real datasets.&lt;/p&gt;
 </description>
@@ -130,18 +130,18 @@ In this thesis, we study the Stochastic Barker proposal, the stochastic gradient
     
     <item>
       <title>Network Visualizer</title>
-      <link>https://maurilorenzo/maurilorenzo.github.io/project/network_visualizer/</link>
+      <link>https://maurilorenzo.github.io/project/network_visualizer/</link>
       <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://maurilorenzo/maurilorenzo.github.io/project/network_visualizer/</guid>
+      <guid>https://maurilorenzo.github.io/project/network_visualizer/</guid>
       <description>&lt;p&gt;Tool to visualize a weighted directed graph in 2D and 3D.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://maurilorenzo/maurilorenzo.github.io/post/getting-started/</link>
+      <link>https://maurilorenzo.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://maurilorenzo/maurilorenzo.github.io/post/getting-started/</guid>
+      <guid>https://maurilorenzo.github.io/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -218,18 +218,18 @@ In this thesis, we study the Stochastic Barker proposal, the stochastic gradient
     
     <item>
       <title>DSGE model</title>
-      <link>https://maurilorenzo/maurilorenzo.github.io/project/dsge/</link>
+      <link>https://maurilorenzo.github.io/project/dsge/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://maurilorenzo/maurilorenzo.github.io/project/dsge/</guid>
+      <guid>https://maurilorenzo.github.io/project/dsge/</guid>
       <description>&lt;p&gt;Simulation of a Dynamic Stochastic General Equilibrium model. The prodcutivity follows an AR(1) in logs. The Solution is derived trought a log-linearization. The model is calibrated to replicate the volatitiy and persistance of the output found by Kydland and Prescott.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://maurilorenzo/maurilorenzo.github.io/slides/example/</link>
+      <link>https://maurilorenzo.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://maurilorenzo/maurilorenzo.github.io/slides/example/</guid>
+      <guid>https://maurilorenzo.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -352,9 +352,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example conference paper</title>
-      <link>https://maurilorenzo/maurilorenzo.github.io/publication/example/</link>
+      <link>https://maurilorenzo.github.io/publication/example/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://maurilorenzo/maurilorenzo.github.io/publication/example/</guid>
+      <guid>https://maurilorenzo.github.io/publication/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -371,9 +371,9 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://maurilorenzo/maurilorenzo.github.io/admin/config.yml</link>
+      <link>https://maurilorenzo.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://maurilorenzo/maurilorenzo.github.io/admin/config.yml</guid>
+      <guid>https://maurilorenzo.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     
