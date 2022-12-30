@@ -14,9 +14,9 @@
     
     <item>
       <title>DSGE model</title>
-      <link>https://maurilorenzo.github.io/project/dsge/</link>
+      <link>https://maurilorenzo.github.io/projects-deleted/dsge/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://maurilorenzo.github.io/project/dsge/</guid>
+      <guid>https://maurilorenzo.github.io/projects-deleted/dsge/</guid>
       <description>&lt;p&gt;Simulation of a Dynamic Stochastic General Equilibrium model. The prodcutivity follows an AR(1) in logs. The Solution is derived trought a log-linearization. The model is calibrated to replicate the volatitiy and persistance of the output found by Kydland and Prescott.&lt;/p&gt;
 </description>
     </item>

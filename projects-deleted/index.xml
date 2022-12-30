@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects-deleteds | Lorenzo Mauri</title>
+    <link>https://maurilorenzo.github.io/projects-deleted/</link>
+      <atom:link href="https://maurilorenzo.github.io/projects-deleted/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects-deleteds</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://maurilorenzo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects-deleteds</title>
+      <link>https://maurilorenzo.github.io/projects-deleted/</link>
+    </image>
+    
+    <item>
+      <title>Network Visualizer</title>
+      <link>https://maurilorenzo.github.io/projects-deleted/network_visualizer/</link>
+      <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://maurilorenzo.github.io/projects-deleted/network_visualizer/</guid>
+      <description>&lt;p&gt;Tool to visualize a weighted directed graph in 2D and 3D.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DSGE model</title>
+      <link>https://maurilorenzo.github.io/projects-deleted/dsge/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://maurilorenzo.github.io/projects-deleted/dsge/</guid>
+      <description>&lt;p&gt;Simulation of a Dynamic Stochastic General Equilibrium model. The prodcutivity follows an AR(1) in logs. The Solution is derived trought a log-linearization. The model is calibrated to replicate the volatitiy and persistance of the output found by Kydland and Prescott.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
