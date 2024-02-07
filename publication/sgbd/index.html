@@ -78,7 +78,7 @@
   
     
   
-  <meta name="description" content="Markov chain Monte Carlo (MCMC) algorithms represent the most common method for solving intractable integrals in Bayesian inference. Among this class of algorithms, stochastic gradient MCMC (SGMCMC) have recently gained great attention as they combine scalability to large datasets with a fast exploration of the space. In this work, we present the Stochastic Gradient Barker Dynamics (SGBD), the stochastic gradient version of a recently introduced MCMC algorithm, the Barker scheme that has been shown to outperform standard gradient based MCMC in terms of robustness to hyperparameter tuning. The method presented is compared to the stochastic gradient Langevin dynamics algorithm (SGLD), a popular SGMCMC. SGBD shows greater robustness to hyperparameter tuning when the posterior is irregular and outperforms SGLD in terms of predictive accuracy on real datasets." />
+  <meta name="description" content="Stochastic Gradient (SG) Markov Chain Monte Carlo algorithms (MCMC) are popular algorithms for Bayesian sampling in the presence of large datasets. However, they come with little theoretical guarantees and assessing their empirical performances is non-trivial. In such context, it is crucial to develop algorithms that are robust to the choice of hyperparameters and to gradients heterogeneity since, in practice, both the choice of step-size and behaviour of target gradients induce hard-to-control  biases in the invariant distribution. In this work we introduce the stochastic gradient Barker dynamics (SGBD) algorithm, extending the recently developed Barker MCMC scheme, a robust alternative to Langevin-based sampling algorithms, to the stochastic gradient framework. We characterize the impact of stochastic gradients on the Barker transition mechanism and develop a bias-corrected version that, under suitable assumptions, eliminates the error due to the gradient noise in the proposal. We illustrate the performance on a number of high-dimensional examples, showing that SGBD is more robust to hyperparameter tuning and to irregular behavior of the target gradients compared to the popular stochastic gradient Langevin dynamics algorithm." />
 
   
   <link rel="alternate" hreflang="en-us" href="https://maurilorenzo.github.io/publication/sgbd/" />
@@ -310,17 +310,17 @@
   
   <meta property="og:site_name" content="Lorenzo Mauri" />
   <meta property="og:url" content="https://maurilorenzo.github.io/publication/sgbd/" />
-  <meta property="og:title" content="Stochastic Gradient Barker Dynamics Algorithm | Lorenzo Mauri" />
-  <meta property="og:description" content="Markov chain Monte Carlo (MCMC) algorithms represent the most common method for solving intractable integrals in Bayesian inference. Among this class of algorithms, stochastic gradient MCMC (SGMCMC) have recently gained great attention as they combine scalability to large datasets with a fast exploration of the space. In this work, we present the Stochastic Gradient Barker Dynamics (SGBD), the stochastic gradient version of a recently introduced MCMC algorithm, the Barker scheme that has been shown to outperform standard gradient based MCMC in terms of robustness to hyperparameter tuning. The method presented is compared to the stochastic gradient Langevin dynamics algorithm (SGLD), a popular SGMCMC. SGBD shows greater robustness to hyperparameter tuning when the posterior is irregular and outperforms SGLD in terms of predictive accuracy on real datasets." /><meta property="og:image" content="https://maurilorenzo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
+  <meta property="og:title" content="Robust Approximate Sampling via Stochastic Gradient Barker Dynamics | Lorenzo Mauri" />
+  <meta property="og:description" content="Stochastic Gradient (SG) Markov Chain Monte Carlo algorithms (MCMC) are popular algorithms for Bayesian sampling in the presence of large datasets. However, they come with little theoretical guarantees and assessing their empirical performances is non-trivial. In such context, it is crucial to develop algorithms that are robust to the choice of hyperparameters and to gradients heterogeneity since, in practice, both the choice of step-size and behaviour of target gradients induce hard-to-control  biases in the invariant distribution. In this work we introduce the stochastic gradient Barker dynamics (SGBD) algorithm, extending the recently developed Barker MCMC scheme, a robust alternative to Langevin-based sampling algorithms, to the stochastic gradient framework. We characterize the impact of stochastic gradients on the Barker transition mechanism and develop a bias-corrected version that, under suitable assumptions, eliminates the error due to the gradient noise in the proposal. We illustrate the performance on a number of high-dimensional examples, showing that SGBD is more robust to hyperparameter tuning and to irregular behavior of the target gradients compared to the popular stochastic gradient Langevin dynamics algorithm." /><meta property="og:image" content="https://maurilorenzo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="https://maurilorenzo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
         property="article:published_time"
-        content="2022-07-12T00:00:00&#43;00:00"
+        content="2023-07-12T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2022-10-31T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2024-07-31T00:00:00&#43;00:00">
   
 
   
@@ -344,10 +344,10 @@
     "@type": "WebPage",
     "@id": "https://maurilorenzo.github.io/publication/sgbd/"
   },
-  "headline": "Stochastic Gradient Barker Dynamics Algorithm",
+  "headline": "Robust Approximate Sampling via Stochastic Gradient Barker Dynamics",
   
-  "datePublished": "2022-07-12T00:00:00Z",
-  "dateModified": "2022-10-31T00:00:00Z",
+  "datePublished": "2023-07-12T00:00:00Z",
+  "dateModified": "2024-07-31T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -362,7 +362,7 @@
       "url": "https://maurilorenzo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "Markov chain Monte Carlo (MCMC) algorithms represent the most common method for solving intractable integrals in Bayesian inference. Among this class of algorithms, stochastic gradient MCMC (SGMCMC) have recently gained great attention as they combine scalability to large datasets with a fast exploration of the space. In this work, we present the Stochastic Gradient Barker Dynamics (SGBD), the stochastic gradient version of a recently introduced MCMC algorithm, the Barker scheme that has been shown to outperform standard gradient based MCMC in terms of robustness to hyperparameter tuning. The method presented is compared to the stochastic gradient Langevin dynamics algorithm (SGLD), a popular SGMCMC. SGBD shows greater robustness to hyperparameter tuning when the posterior is irregular and outperforms SGLD in terms of predictive accuracy on real datasets."
+  "description": "Stochastic Gradient (SG) Markov Chain Monte Carlo algorithms (MCMC) are popular algorithms for Bayesian sampling in the presence of large datasets. However, they come with little theoretical guarantees and assessing their empirical performances is non-trivial. In such context, it is crucial to develop algorithms that are robust to the choice of hyperparameters and to gradients heterogeneity since, in practice, both the choice of step-size and behaviour of target gradients induce hard-to-control  biases in the invariant distribution. In this work we introduce the stochastic gradient Barker dynamics (SGBD) algorithm, extending the recently developed Barker MCMC scheme, a robust alternative to Langevin-based sampling algorithms, to the stochastic gradient framework. We characterize the impact of stochastic gradients on the Barker transition mechanism and develop a bias-corrected version that, under suitable assumptions, eliminates the error due to the gradient noise in the proposal. We illustrate the performance on a number of high-dimensional examples, showing that SGBD is more robust to hyperparameter tuning and to irregular behavior of the target gradients compared to the popular stochastic gradient Langevin dynamics algorithm."
 }
 </script>
 
@@ -373,7 +373,7 @@
   
 
 
-  <title>Stochastic Gradient Barker Dynamics Algorithm | Lorenzo Mauri</title>
+  <title>Robust Approximate Sampling via Stochastic Gradient Barker Dynamics | Lorenzo Mauri</title>
 
   
   
@@ -729,7 +729,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Stochastic Gradient Barker Dynamics Algorithm</h1>
+  <h1>Robust Approximate Sampling via Stochastic Gradient Barker Dynamics</h1>
 
   
 
@@ -759,7 +759,7 @@
     
       
     
-    October, 2022
+    July, 2024
   </span>
   
 
@@ -830,7 +830,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Markov chain Monte Carlo (MCMC) algorithms represent the most common method for solving intractable integrals in Bayesian inference. Among this class of algorithms, stochastic gradient MCMC (SGMCMC) have recently gained great attention as they combine scalability to large datasets with a fast exploration of the space. In this work, we present the Stochastic Gradient Barker Dynamics (SGBD), the stochastic gradient version of a recently introduced MCMC algorithm, the Barker scheme that has been shown to outperform standard gradient based MCMC in terms of robustness to hyperparameter tuning. The method presented is compared to the stochastic gradient Langevin dynamics algorithm (SGLD), a popular SGMCMC. SGBD shows greater robustness to hyperparameter tuning when the posterior is irregular and outperforms SGLD in terms of predictive accuracy on real datasets.</p>
+    <p class="pub-abstract">Stochastic Gradient (SG) Markov Chain Monte Carlo algorithms (MCMC) are popular algorithms for Bayesian sampling in the presence of large datasets. However, they come with little theoretical guarantees and assessing their empirical performances is non-trivial. In such context, it is crucial to develop algorithms that are robust to the choice of hyperparameters and to gradients heterogeneity since, in practice, both the choice of step-size and behaviour of target gradients induce hard-to-control  biases in the invariant distribution. In this work we introduce the stochastic gradient Barker dynamics (SGBD) algorithm, extending the recently developed Barker MCMC scheme, a robust alternative to Langevin-based sampling algorithms, to the stochastic gradient framework. We characterize the impact of stochastic gradients on the Barker transition mechanism and develop a bias-corrected version that, under suitable assumptions, eliminates the error due to the gradient noise in the proposal. We illustrate the performance on a number of high-dimensional examples, showing that SGBD is more robust to hyperparameter tuning and to irregular behavior of the target gradients compared to the popular stochastic gradient Langevin dynamics algorithm.</p>
     
 
     
@@ -841,8 +841,8 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Type</div>
           <div class="col-12 col-md-9">
-            <a href="/publication/#3">
-              Preprint
+            <a href="/publication/#1">
+              Conference paper
             </a>
           </div>
         </div>
@@ -858,7 +858,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">In Preparation</div>
+          <div class="col-12 col-md-9">International Conference on Artificial Intelligence and Statistics</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -889,7 +889,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://maurilorenzo.github.io/publication/sgbd/&amp;text=Stochastic%20Gradient%20Barker%20Dynamics%20Algorithm" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://maurilorenzo.github.io/publication/sgbd/&amp;text=Robust%20Approximate%20Sampling%20via%20Stochastic%20Gradient%20Barker%20Dynamics" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -902,7 +902,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://maurilorenzo.github.io/publication/sgbd/&amp;t=Stochastic%20Gradient%20Barker%20Dynamics%20Algorithm" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://maurilorenzo.github.io/publication/sgbd/&amp;t=Robust%20Approximate%20Sampling%20via%20Stochastic%20Gradient%20Barker%20Dynamics" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -915,7 +915,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Stochastic%20Gradient%20Barker%20Dynamics%20Algorithm&amp;body=https://maurilorenzo.github.io/publication/sgbd/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Robust%20Approximate%20Sampling%20via%20Stochastic%20Gradient%20Barker%20Dynamics&amp;body=https://maurilorenzo.github.io/publication/sgbd/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -928,7 +928,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://maurilorenzo.github.io/publication/sgbd/&amp;title=Stochastic%20Gradient%20Barker%20Dynamics%20Algorithm" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https://maurilorenzo.github.io/publication/sgbd/&amp;title=Robust%20Approximate%20Sampling%20via%20Stochastic%20Gradient%20Barker%20Dynamics" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -941,7 +941,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Stochastic%20Gradient%20Barker%20Dynamics%20Algorithm%20https://maurilorenzo.github.io/publication/sgbd/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Robust%20Approximate%20Sampling%20via%20Stochastic%20Gradient%20Barker%20Dynamics%20https://maurilorenzo.github.io/publication/sgbd/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -954,7 +954,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://maurilorenzo.github.io/publication/sgbd/&amp;title=Stochastic%20Gradient%20Barker%20Dynamics%20Algorithm" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://maurilorenzo.github.io/publication/sgbd/&amp;title=Robust%20Approximate%20Sampling%20via%20Stochastic%20Gradient%20Barker%20Dynamics" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -994,7 +994,7 @@
     <div class="media-body">
       <h5 class="card-title"><a href="https://maurilorenzo.github.io/">Lorenzo Mauri</a></h5>
       <h6 class="card-subtitle">PhD Student</h6>
-      <p class="card-text">Welcome to my personal page! I am a PhD Student at Duke Univeristy interested in Bayesian Inference and Probabilistic Machine Learning.</p>
+      <p class="card-text">Welcome to my personal page! I am a PhD Candidate at Duke Univeristy interested in Bayesian Inference and Probabilistic Machine Learning.</p>
       <ul class="network-icon" aria-hidden="true">
   
     

@@ -837,8 +837,15 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p>Markov chain Monte Carlo (MCMC) algorithms represent the most common method for solving intractable integrals in Bayesian inference. Among this class of algorithms, stochastic gradient MCMC (SGMCMC) have recently gained great attention as they combine scalability to large datasets with a fast exploration of the space. 
-In this thesis, we study the Stochastic Barker proposal, the stochastic gradient version of a recently introduced MCMC algorithm, the Barker scheme that has been shown to outperform standard gradient based MCMC in terms of robustness to hyperparameter tuning. The method presented is compared to the stochastic gradient Langevin dynamics (SGLD) algorithm, a popular SGMCMC. Also in the stochastic case, the Barker Proposal shows greater robustness to hyperparameter tuning when the posterior is irregular and outperforms SGLD in terms of predictive accuracy on real datasets.</p>
+      <p>Stochastic Gradient (SG) Markov Chain Monte Carlo algorithms (MCMC) are popular algorithms for Bayesian sampling in the presence of large datasets. 
+However, they come with little theoretical guarantees and assessing their empirical performances is non-trivial.
+In such context, it is crucial to develop algorithms that are robust to the choice of hyperparameters and to gradients heterogeneity since, in practice, 
+both the choice of step-size and behaviour of target gradients induce hard-to-control  biases in the invariant distribution. 
+In this work we introduce the stochastic gradient Barker dynamics (SGBD) algorithm, 
+extending the recently developed Barker MCMC scheme, a robust alternative to Langevin-based sampling algorithms, to the stochastic gradient framework.
+We characterize the impact of stochastic gradients on the Barker transition mechanism and develop a bias-corrected version 
+that, under suitable assumptions, eliminates the error due to the gradient noise in the proposal.
+We illustrate the performance on a number of high-dimensional examples, showing that SGBD is more robust to hyperparameter tuning and to irregular behavior of the target gradients compared to the popular stochastic gradient Langevin dynamics algorithm.</p>
 
     </div>
 
@@ -971,7 +978,7 @@ In this thesis, we study the Stochastic Barker proposal, the stochastic gradient
     <div class="media-body">
       <h5 class="card-title"><a href="https://maurilorenzo.github.io/">Lorenzo Mauri</a></h5>
       <h6 class="card-subtitle">PhD Student</h6>
-      <p class="card-text">Welcome to my personal page! I am a PhD Student at Duke Univeristy interested in Bayesian Inference and Probabilistic Machine Learning.</p>
+      <p class="card-text">Welcome to my personal page! I am a PhD Candidate at Duke Univeristy interested in Bayesian Inference and Probabilistic Machine Learning.</p>
       <ul class="network-icon" aria-hidden="true">
   
     
